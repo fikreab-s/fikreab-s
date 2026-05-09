@@ -1,6 +1,6 @@
 # Hi, I'm Fab 👋
 
-**Post-Training Engineer & Applied ML Researcher**
+**Senior AI Engineer | Commercial agentic systems, Synthetic data, Enterprise AI**
 
 PhD in Mathematics (Dynamical Systems & Optimization) · Building efficient, enterprise-ready AI systems from fine-tuning to edge deployment.
 
@@ -34,6 +34,12 @@ PhD in Mathematics (Dynamical Systems & Optimization) · Building efficient, ent
 ### 🛠️ Stack
 
 `Python` `PyTorch` `Unsloth` `TRL` `Axolotl` `vLLM` `SGLang` `MLflow` `JAX`
+
+### 📸 [Visual Tour →](VISUAL_TOUR.md)
+
+A picture-first walk through all 28 projects — training dynamics GIFs, ablation charts, Pareto frontiers, and more.
+
+![flagship](https://raw.githubusercontent.com/fikreab-s/lfm-enterprise-text-posttraining/main/viz/three_stage_ablation.png)
 
 ---
 
